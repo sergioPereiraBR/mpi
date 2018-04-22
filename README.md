@@ -1,11 +1,11 @@
 # mpi
-##Estudo de computação paralela - MPI
+## Estudo de computação paralela - MPI
 
-###sc 
+### sc 
 
 * Arquivos do código fonte
 
-###utility
+### utility
 
 * Arquivo hostfile - Configuração dos hosts para execução MPI
 * Arquivo makefile - Automação para compilação e execução MPI
@@ -13,7 +13,7 @@
 - Copiar hostfile e makefile para pasta compartilhada MPI;
 - Ajustar conforme a necessidade;
 
-####Alternativas de Utilização
+#### Alternativas de Utilização
 
 1) $ make
 2) $ make np=n
