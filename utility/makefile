@@ -19,6 +19,7 @@ runt: $(EXEC)
 
 $(EXEC): $(SRC)
 	@$(CC) $^ -o $@ $(CFLAGS)
+
 clean: $(EXEC)
 	@rm -rf *.o
 	@rm -rf $^
